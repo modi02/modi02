@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Raj 👋
 
-<!--
-**modi02/modi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergrad at SVNIT Surat (B.Tech CSE, Expected 2027)
 
-Here are some ideas to get you started:
+### What I work on
+- 🐍 Python — data pipelines, ML, backend
+- 📊 Data Engineering — Pandas, NumPy, Apache Spark
+- 🤖 ML — scikit-learn, TensorFlow, PyTorch
+- 🗄️ Databases — MySQL, MongoDB, SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- 📖 Contributing to Internet Archive's Open Library
+- 🔍 Exploring large-scale text classification and NLP
+
+### Projects
+- **Deepfake Detection Pipeline** — Ensemble CNN models on 10k+ image 
+  dataset, EDA, augmentation pipelines, model evaluation dashboards
+- **Space Station Betting App** — Python/SQL/Firebase backend with 
+  complex query design and real-time data management
+
+### Connect
+[LinkedIn](https://www.linkedin.com/in/raj-modi-95b635227)
