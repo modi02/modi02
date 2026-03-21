@@ -9,7 +9,6 @@ CS undergrad at SVNIT Surat (B.Tech CSE, Expected 2027)
 - 🗄️ Databases — MySQL, MongoDB, SQLite
 
 ### Currently
-- 📖 Contributing to Internet Archive's Open Library
 - 🔍 Exploring large-scale text classification and NLP
 
 ### Projects
