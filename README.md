@@ -10,7 +10,7 @@ Building production-grade ML systems, RAG pipelines, and distributed backends.
 | Area | Tools |
 |---|---|
 | ML & AI | Scikit-learn, TensorFlow, Keras, OpenCV, SHAP |
-| LLM & GenAI | Anthropic API, RAG pipelines, Prompt Engineering |
+| LLM & GenAI | LLM API, RAG pipelines, Prompt Engineering |
 | Backend & Systems | Spring Boot, Docker, REST APIs, Consistent Hashing |
 | Data | Pandas, NumPy, Matplotlib, MySQL, MongoDB |
 
